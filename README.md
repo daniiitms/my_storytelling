@@ -13,7 +13,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Irene Guirado Vera
 - :woman: Maria Muros Castillo
 - :man: Daniel Tomás Lucas
-- :woman: Alicia Urquízar Rodrígiez
+- :woman: Alicia Urquízar Rodríguez
 
 
 Proyecto (código): 
