@@ -11,8 +11,9 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 - :man: Daniel Tomás Lucas
-- :woman: minombre
-- :woman: minombre 
+- :woman: Irene Guirado Vera
+- :woman: Maria Muros Castillo
+- :woman: Alicia Urquízar Rodrígiez
 
 
 Proyecto (código): 
