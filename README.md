@@ -34,6 +34,7 @@ Tipo/Género:
 
 ![](1.jpg)
 
+![](2 - copia.jpg)
 Nombre: 
 
 
