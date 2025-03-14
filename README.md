@@ -38,6 +38,7 @@ Tipo/Género:
 
 ### Historia
 
+Giorgio, empleado de ventas, y Margarita, secretaria, son un matrimonio que atraviesa una difícil situación económica. Él, ante esta situación, se ve obligado a tomar una decisión en su vida profesional que pondrá a prueba su relación. Un día Margarita encuentra algo que la lleva a sospechar de su marido, llevándola a seguir su pista hasta el final. Playas paradisiacas, fiestas nocturnas, rostros desconocidos… Un misterio escondido tras las luces neón. ¿Será capaz este amor de superar la oscuridad de la noche?
 
 ### TagLine
 
