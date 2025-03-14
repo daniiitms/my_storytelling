@@ -32,7 +32,7 @@ Tipo/Género:
 
 ### Personaje
 
-![](img-nobody.png)
+![](1.jpg)
 
 Nombre: 
 
