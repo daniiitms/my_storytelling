@@ -55,7 +55,7 @@ https://app.lumi.education/h5p/qu-personaje-eres-de-gio-por-amor-todo-b2pyb5
 - Personaje: (img personaje y enlace a interactivo) 
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser: https://cloud.protopie.io/p/d17911eec7b2283556dbfdc6 
 
 
 - Storytelling: https://arcweave.com/app/project/g16kJBxEYP/play
