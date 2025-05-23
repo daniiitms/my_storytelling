@@ -77,7 +77,7 @@ https://app.lumi.education/h5p/qu-personaje-eres-de-gio-por-amor-todo-b2pyb5
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
 -->
 
-Febrero, 202X
+Mayo, 2025
 
 ![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
