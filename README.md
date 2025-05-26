@@ -58,7 +58,7 @@ https://app.lumi.education/h5p/qu-personaje-eres-de-gio-por-amor-todo-b2pyb5
 - Banner/Teaser: https://cloud.protopie.io/p/d17911eec7b2283556dbfdc6 
 
 
-- Storytelling: https://arcweave.com/app/project/g16kJBxEYP/play
+- Storytelling: https://arcweave.com/app/project/g16kJBxEYP
 
 - Videogame: https://aliciaur.itch.io/gio-por-amor-todo
 
